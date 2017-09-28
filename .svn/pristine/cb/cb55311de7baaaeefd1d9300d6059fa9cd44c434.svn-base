@@ -1,0 +1,31 @@
+In file included from /Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:9:
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.h:19: error: expected specifier-qualifier-list before 'Ball'
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m: In function '-[GroupOfBalls start]':
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:33: error: 'balls' undeclared (first use in this function)
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:33: error: (Each undeclared identifier is reported only once
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:33: error: for each function it appears in.)
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:33: error: 'Ball' undeclared (first use in this function)
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m: In function '-[GroupOfBalls draw]':
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:45: error: 'balls' undeclared (first use in this function)
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m: In function '-[GroupOfBalls animate]':
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:56: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:56: error: request for member 'x_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:57: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:57: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:58: error: request for member 'x_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:58: error: request for member 'x_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:59: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:59: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:59: error: request for member 'x_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:62: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:62: error: request for member 'y_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:63: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:63: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:64: error: request for member 'y_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:64: error: request for member 'y_speed' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:65: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:65: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:65: error: request for member 'y_pos' in something not a structure or union
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m: At top level:
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:73: warning: incomplete implementation of class 'GroupOfBalls'
+/Users/sadboy84/Desktop/Part5Project Start/Classes/GroupOfBalls.m:73: warning: method definition for '-createBalls' not found
